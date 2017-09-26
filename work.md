@@ -3,8 +3,6 @@ layout: page
 title: Experience
 ---
 
-
-
 ## Things I do for money
 
 I have worked on numerous Rails projects not limited to:
@@ -12,8 +10,6 @@ I have worked on numerous Rails projects not limited to:
 - [vinous](https://vinous.com/)
 
 - [delectable](https://delectable.com/)
-
-#### Resume
 
 You can always grab my full [Resume][1]
 
