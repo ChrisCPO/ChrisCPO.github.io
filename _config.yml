@@ -15,12 +15,11 @@ baseurl:          /
 
 author:
   name:           "Chris O'Donnell"
-  url:            https://github.com/chrisCPO
+  url:            http://chriscpo.github.io
 
 plugins:
 
 # Custom vars
-version:          3.6.0
 
 github:
   repo:           https://github.com/chrisCPO
