@@ -15,7 +15,7 @@ You can always grab my full [Resume][1]
 
 ## Things I do for fun
 
-- I have recently become a collaborator on [rspec_api_blueprint](https://github.com/calderalabs/rspec_api_blueprint)
+- I have recently become a collaborator on [rspec\_api\_blueprint](https://github.com/calderalabs/rspec_api_blueprint)
 which has been neglected for sometime I'm going to bring it up too speed.
 
 - I have a long term project that I have been working on that is a web driven

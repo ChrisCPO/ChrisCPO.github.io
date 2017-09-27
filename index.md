@@ -13,21 +13,20 @@ title: About
   </p>
 
   <p>
-    I'm a big enthusiast for Ruby on Rails, but also do not mind getting my hands
-  dirty in Javascript, I have recently started to dive into React. Usually
-  working in Linux, I have found that tmux goes incredibly well with vim and my
-  general TDD workflow. For a technical look check out my
+    I'm a big Ruby on Rails enthusiast, I have recently started to dive into
+    React. I'm a big fan of Linux and I have found that tmux goes incredibly
+    well with vim and my general TDD workflow. For a technical look check out my
   <a target="_blank" href="https://github.com/ChrisCPO/dotfiles">.dotfiles </a>
   </p>
 
   <p>
-    Currently working for a small but successful consulting company
-    <a target="_blank" href="http://barefootcoders.com/">BarefootCoders </a>
-  if you need something built, feel free to
-  <a target="_blank" href="mailto:chris@barefootcoders.com">reach out </a>,
-  or reach out to me
-  <a target="_blank" href="mailto:chris@gmail.com">personally </a>
-  </p>
+    I'm always looking for cool projects to work on so if you need something
+    build, feel free to
+  <a target="_blank" href="mailto:chris@gmail.com">reach out.</a>
+
+  <form action="/work/">
+      <input type="submit" class="button" value="Check out my Experience" />
+  </form>
 </div>
 
 ## Current Meetups
