@@ -1,7 +1,7 @@
 ---
 layout: page
 title: Experience
-permalink: work
+permalink: /work/
 ---
 
 ## Things I do for money
