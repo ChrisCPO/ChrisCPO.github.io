@@ -3,13 +3,13 @@ markdown:         kramdown
 highlighter:      pygments
 
 # Permalinks
-permalink:        pretty
+# permalink:        pretty
 # relative_permalinks: true
 
 # Setup
 title:            Chris O'Donnell
 tagline:          'Software Engineer'
-description:      'A web developer, history buff, somewhat avid reader. I also attend a few meetups. Lives in the NYC'
+description:      'A web developer, history buff, somewhat avid reader. I also attend a few meetups. Lives in NYC'
 url:              http://chriscpo.github.io
 baseurl:          /
 
