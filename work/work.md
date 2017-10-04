@@ -12,7 +12,7 @@ I have worked on numerous projects, not limited to:
 
 - [delectable](https://delectable.com/)
 
-For a fuller more detailed grab my [Resume][1]
+For a fuller more detailed look grab my [Resume][1]
 
 ## Things I do for fun
 
