@@ -21,13 +21,15 @@ title: About
 
   <p>
     I'm always looking for cool projects to work on so if you need something
-    build, feel free to
+    built, feel free to
   <a target="_blank" href="mailto:chris@gmail.com">reach out.</a>
 
-  <form action="/work/">
-      <input type="submit" class="button" value="Check out my Experience" />
+  <form action="/work">
+      <input type="submit" class="button" value="Check out my Experience"/>
   </form>
 </div>
+
+
 
 ## Current Meetups
 - [nyc.rb](https://www.meetup.com/NYC-rb/)
