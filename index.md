@@ -7,6 +7,8 @@ title: About
 
 ## About Me
 
+This site is still a Work in Progress. Cheers
+
 <div class="message">
   <p>
     Not to confuse me with the actor Chris O'Donnell. I'm from central Pennsylvania, attended college in Pittsburgh and now live in New York City. A hobby of dabbling in game development turned in to a web development carrier.

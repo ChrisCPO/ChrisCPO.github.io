@@ -1,17 +1,18 @@
 ---
 layout: page
 title: Experience
+permalink: work
 ---
 
 ## Things I do for money
 
-I have worked on numerous Rails projects not limited to:
+I have worked on numerous projects, not limited to:
 
 - [vinous](https://vinous.com/)
 
 - [delectable](https://delectable.com/)
 
-You can always grab my full [Resume][1]
+For a fuller more detailed grab my [Resume][1]
 
 ## Things I do for fun
 
