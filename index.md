@@ -23,6 +23,7 @@ title: About
     I'm always looking for cool projects to work on so if you need something
     built, feel free to
   <a target="_blank" href="mailto:chris@gmail.com">reach out.</a>
+  </p>
 
   <form action="/work">
       <input type="submit" class="button" value="Check out my Experience"/>
